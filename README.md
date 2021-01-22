@@ -4,4 +4,5 @@ Params in profiles.py are:
 - unit of weight
 - weight of bar
 - set of plates to choose from
+
 Profiles are a collection of parameters
